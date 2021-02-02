@@ -1,0 +1,19 @@
+```yaml
+name: Spanish Clash
+key: spanish
+color: orange
+emblem: Sword_01
+info:
+  logo: /static/img/branding/cr-api-logo.png
+  description: >
+    Familia compuesta de 3 clanes.
+  social:
+    - twitter: https://twitter.com/SpanishClash
+clans:
+  - name: Spanish Soldier
+    tag: 9CRGLLJL
+  - name: "Spanish HERO"
+    tag: YGQV8U0J
+  - name: !SpanishCantera
+    tag: YU2JCG8U
+```
